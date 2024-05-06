@@ -1,4 +1,4 @@
-# project_app1
+# class_note_book
 
 A new Flutter project.
 
